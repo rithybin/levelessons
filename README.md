@@ -14,5 +14,3 @@
 
 - `git diff HEAD~<NUMBER>` : compares HEAD with commit <NUMBER> ago (relative)
 - `git diff <HASH>` : compares HEAD with the commit in <HASH>
-
-- `git restore` : restore readme from the previous commit
